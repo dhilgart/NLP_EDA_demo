@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+amt_airframe_hb_vol_1.pdf
+EDA-scratch.ipynb
